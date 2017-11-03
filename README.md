@@ -1,5 +1,3 @@
 # testing
 
-This readme sucks
-
-But...
+This is a base version of the readme file
